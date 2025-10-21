@@ -1,0 +1,15 @@
+setuptools>=65.0.0
+streamlit==1.33.0
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+pdfminer.six==20221105
+sentence-transformers==2.6.1
+# faiss-cpu==1.7.4
+numpy==1.24.4
+scikit-learn==1.2.2
+networkx==3.2.1
+# neo4j==5.11.0
+pydantic==2.5.2
+pyyaml==6.0.1
+httpx==0.27.0
